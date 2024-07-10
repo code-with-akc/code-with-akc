@@ -20,7 +20,7 @@
       <td align="center" style="width: 80%;">
         <h2>A Passionate Full Stack Developer</h2>
         <p align="center">
-          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
         </p>
       </td>
       <td align="center" style="width: ;">
