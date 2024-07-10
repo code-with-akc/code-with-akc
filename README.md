@@ -17,7 +17,7 @@
           <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </td>
-      <td align="center" style="width: 80%;">
+      <td align="center" style="width: ;">
         <h2>A Passionate Full Stack Developer</h2>
         <p align="center">
           <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
@@ -25,7 +25,7 @@
       </td>
       <td align="center" style="width: ;">
         <h4>Visitor Count</h3>
-        <img src="https://profile-counter.glitch.me/code-with-akc/count.svg" alt="visitor count" />
+        <img width="100" src="https://profile-counter.glitch.me/code-with-akc/count.svg" alt="visitor count" />
       </td>
     </tr>
   </table>
