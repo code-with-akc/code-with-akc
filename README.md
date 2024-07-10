@@ -1,31 +1,118 @@
-# Hi 👋! I am <i>Akash Kumar Chaurasia</i> and I'm a <i>Full Stack Developer</i>, from <i>Delhi, India</i>
+<h1 align="center">Hi 👋, I'm Akash Kumar Chaurasia</h1>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="width: ;">
+        <h4>Let's Connect</h3>
+        <a href="https://linkedin.com/in/akc-akash-kumar-chaurasia" target="blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <br/>
+        <a href="mailto:akashkumarchaurasia2000@gmail.com" target="blank">
+          <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+        <br/>
+        <a href="https://github.com/code-with-akc" target="blank">
+          <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+      <td align="center" style="width: 80%;">
+        <h2>A Passionate Full Stack Developer</h2>
+        <p align="center">
+          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+        </p>
+      </td>
+      <td align="center" style="width: ;">
+        <h4>Visitor Count</h3>
+        <img src="https://profile-counter.glitch.me/code-with-akc/count.svg" alt="visitor count" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+<h2 align="center">About Me</h2>
+<p align="center">
+  I am a Full Stack Developer with a passion for building web applications and learning new technologies. With a solid foundation in HTML, CSS, JavaScript, PHP, MySQL, jQuery, AJAX, and CodeIgniter, I continuously strive to expand my skillset. I am currently diving into the MERN stack to further enhance my development capabilities.
+</p>
 
-## 💫 About Me:
-I am a Full Stack Developer from Delhi, India. Having 3+ years of learning experience in the below technologies:<br><br>Dedicated professional with 3+ years of learning experience in JavaScript, PHP, MySQL, HTML, CSS and related technologies. Passionate about delivering high-quality work. Seeking a position in a fast-paced company that values dedication and fosters technical growth.<br><br>These days, I'm learning MERN Stack and I'm eager to work in the Backend Development
+<h2 align="center">Tech Stack</h2>
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks</th>
+    <th>Databases</th>
+    <th>Others</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CodeIgniter-%23EE4623.svg?&style=for-the-badge&logo=codeigniter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AJAX-%2302569B.svg?&style=for-the-badge&logo=ajax&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
+<h2 align="center">Currently Learning</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-%23339933.svg?&style=for-the-badge&logo=mern&logoColor=white"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akc-akash-kumar-chaurasia/) 
+<h2 align="center">Work Experience</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Designer-%23FF2D20.svg?&style=for-the-badge&logo=design&logoColor=white"/><br><br>
+  <strong>Web Designer at Adaan Digital Solutions Pvt. Ltd. (Sep 2022 - Jun 2023)</strong>
+  <br>
+  - Designed and developed responsive websites using HTML, CSS, JavaScript, and jQuery.
+  <br>
+  - Collaborated with the design team to create visually appealing and user-friendly interfaces.
+  <br>
+  - Implemented dynamic functionalities using AJAX and PHP.
+  <br>
+  - Optimized websites for performance and SEO.
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=code-with-akc&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=code-with-akc&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-akc&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">Top Contributed Repo</h2>
+<p align="center">
+  <a href="https://github-contributor-stats.vercel.app/api?username=code-with-akc&limit=5&theme=dark&combine_all_yearly_contributions=true" target="blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-with-akc&repo=your-top-repo&theme=radical" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=code-with-akc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2 align="center">GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=code-with-akc&theme=radical" alt="code-with-akc" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-akc&show_icons=true&theme=radical" alt="code-with-akc" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-akc&layout=compact&theme=radical" alt="code-with-akc" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=code-with-akc&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=code-with-akc&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation"/>
+</p>
