@@ -92,9 +92,7 @@
 
 <h2 align="center">Top Contributed Repo</h2>
 <p align="center">
-  <a href="https://github-contributor-stats.vercel.app/api?username=code-with-akc&limit=5&theme=dark&combine_all_yearly_contributions=true" target="blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-with-akc&repo=your-top-repo&theme=radical" />
-  </a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=code-with-akc&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="code-with-akc">
 </p>
 
 <h2 align="center">GitHub Trophies</h2>
